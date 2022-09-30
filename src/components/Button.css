@@ -1,0 +1,10 @@
+.Button {
+    background-color: sandybrown;
+
+}
+
+.Button .Toggle {
+    background-color: forestgreen;
+    color: whitesmoke;
+
+}
