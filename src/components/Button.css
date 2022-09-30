@@ -1,10 +1,13 @@
 .Button {
-    background-color: sandybrown;
-
+    background-color: grey;
+    cursor: auto;
 }
 
 .Button .Toggle {
-    background-color: forestgreen;
-    color: whitesmoke;
-
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
 }

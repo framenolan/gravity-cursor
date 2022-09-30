@@ -1,5 +1,6 @@
 import React from "react";
 import "./Cursor.css"
+import Tail from "./Tail";
 
 function Cursor() {
     const cursorRef = React.useRef(null);
@@ -15,7 +16,9 @@ function Cursor() {
     })
 
     return (
-        <div className="Cursor" ref={cursorRef} />
+        <div className="Cursor" ref={cursorRef}>
+            
+        </div>
     )
 }
 

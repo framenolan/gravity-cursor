@@ -1,5 +1,10 @@
+html, body {
+    cursor: none;
+}    
+
 .Space {
     height: 100vh;
     width: 100%;
     background-color: black;
+
 }
