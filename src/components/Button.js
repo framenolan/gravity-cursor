@@ -5,11 +5,12 @@ function Button() {
        
     
     return (
-      <main className="Button">
+      <footer className="Button">
         <button className="Toggle"
         // onClick={}
         >Click Me</button>
-      </main>
+        
+      </footer>
     );
 }
 

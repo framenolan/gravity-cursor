@@ -1,5 +1,11 @@
+html, body {
+  cursor: none;
+}
+
 .App {
   text-align: center;
+  height: 100%;
+  width: 100%;
 }
 
 .App-logo {
